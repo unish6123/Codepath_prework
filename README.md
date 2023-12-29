@@ -34,10 +34,12 @@ Gmail
 - [ ] Can be saved as a draft to continue later.
 
 
-I'm considering creating a Pomodoro timer that simplifies the process by allowing users to set a 25-minute timer for focused study sessions and customize timers for various activities. The timer could include features like a relaxation timer with adjustable durations, accompanied by soothing sounds such as rainfall or a crackling fireplace. I plan to incorporate different timer types tailored to specific activities.## Notes
+I'm considering creating a Pomodoro timer that simplifies the process by allowing users to set a 25-minute timer for focused study sessions and customize timers for various activities. The timer could include features like a relaxation timer with adjustable durations, accompanied by soothing sounds such as rainfall or a crackling fireplace. I plan to incorporate different timer types tailored to specific activities.
+
+## Notes
 
 Describe any challenges encountered while building the app.
-There were not many challenges. However, it was bit overwhelming to see lot of thing on display on xcode.
+- There were not many challenges. However, it was bit overwhelming to see lot of thing on display on xcode.
 
 ## License
 
